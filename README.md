@@ -1,7 +1,2 @@
 ## Hi there 👋
-
-![](https://raw.githubusercontent.com/art9762/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/art9762/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/art9762/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/art9762/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=art9762)](https://github.com/anuraghazra/github-readme-stats)
